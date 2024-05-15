@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640687408848",
+    "project_id": "code-it-solutions-49aca",
+    "storage_bucket": "code-it-solutions-49aca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640687408848:android:e139f79da0d34da1dbc0d5",
+        "android_client_info": {
+          "package_name": "com.breezefieldsalescodeit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSxGT_2T4g61GCbKHWcyMDDyOORUdgl9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
